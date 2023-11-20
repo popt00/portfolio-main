@@ -19,7 +19,3 @@ Link to live site: https://parimal.ca
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## Copyrights
-
-[© Prasad Chavan](https://github.com/prasad-chavan1) <a>2023</a>
